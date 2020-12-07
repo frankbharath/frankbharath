@@ -6,6 +6,7 @@
 ### Technical Stack
 
 * **Backend**: Java 8, Spring(core, MVC, security) and JUnit
+* **Backend**: PostgreSQL, Redis
 * **Frontend**: Javascript ES6, AngularJS, HTML and CSS
 * **CI/CD**: Jenkins, Docker
 * **Build**: Maven
@@ -19,6 +20,11 @@
         - a chat application between owner and tenant
     - Worked on both front-end, back-end and system designed the application.
     ![architecture](https://user-images.githubusercontent.com/49817583/101417936-f8a60800-38ec-11eb-953c-0d31c2a65750.png)  
+- Request Parser
+    - Developed validation library that removes validation logic from controller or the corresponding classes that validates the domain object
+    - Low memory footprint and configurable with XML
+
+
     
 
 <!--
