@@ -13,11 +13,12 @@
 ### Recent Projects
 
 - Rentpal
-    - This project focuses on 
-        - - using electronic signature based rental agreements as opposed to paper based rental agreements
-        - - sending digital rental receipts when tenant pays rent to owner
-        - - a chat application between owner and tenant
+    - This project focuses on, 
+        - using electronic signature based rental agreements as opposed to paper based rental agreements
+        - sending digital rental receipts when tenant pays rent to owner
+        - a chat application between owner and tenant
     - Worked on both front-end, back-end and system designed the application.
+    ![architecture](https://user-images.githubusercontent.com/49817583/101417936-f8a60800-38ec-11eb-953c-0d31c2a65750.png)  
     
 
 <!--
