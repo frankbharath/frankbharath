@@ -22,7 +22,7 @@
     ![architecture](https://user-images.githubusercontent.com/49817583/101417936-f8a60800-38ec-11eb-953c-0d31c2a65750.png)  
 - Request Parser
     - Developed validation library that removes validation logic from controller or the corresponding classes that validates the domain object
-    - Low memory footprint and configurable with XML
+    - Provides clean code with low memory footprint and validation parameters can be configured in XML file
 
 
     
