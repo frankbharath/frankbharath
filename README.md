@@ -19,7 +19,7 @@
         - sending digital rental receipts when tenant pays rent to owner
         - a chat application between owner and tenant
     - Worked on both front-end, back-end and system designed the application.
-    ![image](https://user-images.githubusercontent.com/49817583/101523374-d1047d80-3988-11eb-9bb7-e9e301777b71.png) 
+    ![image](https://user-images.githubusercontent.com/49817583/101530462-40329f80-3992-11eb-987c-68f654c9283f.png)
 - Request Parser
     - Developed validation library that removes validation logic from controller or the corresponding classes that validates the domain object
     - Provides clean code with low memory footprint and validation parameters can be configured in XML file
