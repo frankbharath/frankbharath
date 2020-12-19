@@ -5,7 +5,7 @@
 
 ### Technical Stack
 
-* **Backend**: Java 8, Spring(core, MVC, security) and JUnit
+* **Backend**: Java 11, Spring Framework and JUnit
 * **Backend**: PostgreSQL, Redis
 * **Frontend**: Javascript ES6, AngularJS, HTML and CSS
 * **CI/CD**: Jenkins, Docker
