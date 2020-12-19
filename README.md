@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Bharath
 
 - I am software engineer, previously worked for Zoho Corporation for 4 years.
-- Right now, I am looking for an opportunity as a full stack developer or a backend developer.
+- Right now, I am looking for an opportunity as a full stack developer, frontend or a backend developer.
 
 ### Technical Stack
 
