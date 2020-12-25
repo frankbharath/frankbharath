@@ -35,7 +35,7 @@ Microservice could be challenging if it not designed properly,
 
 #### Choices of technology
 - PostgreSQL - has lots of indexing option such as partial, cardinality and GIN, uses MVCC for transactions, materliazed views for complex time consuming queries. 
-- Redis - we can all agree the time operation is database, storing prequeried results in redis avoids hitting the database. Redis supports structurs such as hashmap, hashset, sorted set.
+- Redis - we can all agree the time operation is database, storing prequeried results in redis avoids hitting the database. Redis supports structures such as hashmap, hashset, sorted set.
 
 
 
