@@ -14,9 +14,16 @@
 ### Rentpal
 This repository primarily focuses on my personal project "rentpal", the objective of the project is to leverage exisiting concept electronic signature to share rental agreements between owners and the tenants. With this project, I am hoping there is a conversation to utilize e-sign to transfer any form legal documents as opposed to having paper based documents. Out of the 17 billion cubic feet of trees deforested each year, over 60% are used to make paper. Obviously, we cannot eradicate paper usage completely but we can slow move away from paper based legal documents. 
 
-#### Initial Architecture
+#### Initial System Design
     
 ![architecture_1](https://user-images.githubusercontent.com/49817583/103137990-3321ea00-46ce-11eb-843b-8deaf09769f5.png)
+
+#### Monolithic vs Microservices
+In my previous company, we used monolithic architecture and the pain points
+- for small change of code be it front end or backend, the whole application must be redeployed.
+- monolithic comprises many services, all these services must be written in the same language, there is no choice of choosing different tech stack according to the services.
+- ineffective resource utilization, the whole application must be scaled just for few time consuming services.
+
 
 
     
