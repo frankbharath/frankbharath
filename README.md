@@ -36,6 +36,9 @@ Microservice could be challenging if it not designed properly,
 #### Choices of technology
 - PostgreSQL - has lots of indexing option such as partial, cardinality and GIN, uses MVCC for transactions, materliazed views for complex time consuming queries. 
 - Redis - we can all agree the time operation is database, storing prequeried results in redis avoids hitting the database. Redis supports structures such as hashmap, hashset, sorted set.
+- Docker - captures the environment setup and builds a package with dependencies. 
+- Jenkins - pulls the code from github, performs unit test, builds maven jar, creates docker image and to pushes it to dockerhub.
+- AWS - to host microservices using container orchestration
 
 
 
