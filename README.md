@@ -31,6 +31,7 @@ On the other hand, microservices overcomes the constraints in monolith architect
 
 Microservice could be challenging if it not designed properly,
 - design the microservices based on domains, this helps us to avoid data duplication and maintains data integrity if the tables are referenced.
+- increases network call between microservices, increasing the network latency. Use event driven approach and send partial response to the users.
 
 
 
