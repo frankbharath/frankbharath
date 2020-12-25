@@ -33,6 +33,10 @@ Microservice could be challenging if it not designed properly,
 - design the microservices based on domains, this helps us to avoid data duplication and maintains data integrity if the tables are referenced.
 - increases network call between microservices, increasing the network latency. Use event driven approach and send partial response to the users.
 
+#### Choices of technology
+- PostgreSQL - has lots of indexing option such as partial, cardinality and GIN, uses MVCC for transactions, materliazed views for complex time consuming queries. 
+- Redis - we can all agree the time operation is database, storing prequeried results in redis avoids hitting the database. Redis supports structurs such as hashmap, hashset, sorted set.
+
 
 
     
