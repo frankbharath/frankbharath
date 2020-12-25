@@ -29,6 +29,9 @@ On the other hand, microservices overcomes the constraints in monolith architect
 - can utilize different tech stack for each microservices.
 - minimal failure, even if a microservice down, the whole system is not comprised.
 
+Microservice could be challenging if it not designed properly,
+- design the microservices based on domains, this helps us to avoid data duplication and maintains data integrity if the tables are referenced.
+
 
 
     
