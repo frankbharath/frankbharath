@@ -15,5 +15,6 @@
 - This repository primarily focuses on my personal project "rentpal", the objective of the project is to leverage exisitin concept electronic signature to share rental agreements between owners and the tenants.  
 
 #### Initial Architecture
-    ![architecture_1](https://user-images.githubusercontent.com/49817583/103137990-3321ea00-46ce-11eb-843b-8deaf09769f5.png)
+    
+![architecture_1](https://user-images.githubusercontent.com/49817583/103137990-3321ea00-46ce-11eb-843b-8deaf09769f5.png)
     
