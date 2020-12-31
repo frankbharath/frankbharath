@@ -20,7 +20,7 @@ This repository primarily focuses on my personal project "rentpal", the objectiv
 Each of the microservices are explained in the corresponding repositories that are pinned down below.
 
 #### Monolithic vs Microservices
-In my previous company, we used monolithic architecture and the pain points are,
+The pain points of monolithic are,
 - tightly coupled, for a small change of code be it front end or backend, the whole application must be redeployed and if the system goes down, there is 100% failure.
 - monolithic comprises many services, all these services must be written in the same language, there is no choice of choosing different tech stack according to the services.
 - ineffective resource utilization, the whole application must be scaled just for few time-consuming services.
