@@ -7,7 +7,7 @@
 
 * **Backend**: Java 11, Spring Framework and JUnit
 * **Database**: MySQL, PostgreSQL, Redis
-* **Frontend**: Javascript ES6, AngularJS, HTML and CSS
+* **Frontend**: Javascript ES6, React, HTML and CSS
 * **CI/CD**: Jenkins, Docker
 * **Build**: Maven
 
