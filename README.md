@@ -8,8 +8,7 @@ This repository primarily focuses on my personal project "rentpal", the objectiv
 
 #### Initial System Design
     
-![architecture_1](https://user-images.githubusercontent.com/49817583/103137990-3321ea00-46ce-11eb-843b-8deaf09769f5.png)
-Each of the microservices are explained in the corresponding repositories that are pinned down below.
+[rentpal architecture.pdf](https://github.com/frankbharath/frankbharath/files/6173753/rentpal.architecture.pdf)
 
 #### Monolithic vs Microservices
 The pain points of monolithic are,
