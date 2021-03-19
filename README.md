@@ -6,9 +6,9 @@
 ### Rentpal
 This repository primarily focuses on my personal project "rentpal", the objective of the project is to leverage exisiting concept electronic signature to share rental agreements between owners and the tenants. With this project, I am hoping there is a conversation to utilize e-sign to transfer any form legal documents as opposed to having paper based documents. Out of the 17 billion cubic feet of trees deforested each year, over 60% are used to make paper. Obviously, we cannot eradicate paper usage completely but we can slow move away from paper based legal documents. 
 
-#### Initial System Design
+#### System Design
     
-![rentpal architecture.pdf](https://github.com/frankbharath/frankbharath/files/6173753/rentpal.architecture.pdf)
+![rentpal architecture](https://user-images.githubusercontent.com/49817583/111836725-0ceb9f00-88f7-11eb-83de-26cf3450a5b2.png)
 
 #### Monolithic vs Microservices
 The pain points of monolithic are,
